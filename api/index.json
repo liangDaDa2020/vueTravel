@@ -1,0 +1,32 @@
+{
+	"ret": true,
+	"data": {
+		"cityData": {"city": "北京"},
+		"barData": [ "https://liangdada2020.github.io/vueTravel/staticimage/1.jpg", "https://liangdada2020.github.io/vueTravel/staticimage/2.jpg" ,"https://liangdada2020.github.io/vueTravel/staticimage/3.jpg"],
+		"iconData":[
+          {"id":"01","text":"景点景点景点景点景点","img":"https://liangdada2020.github.io/vueTravel/staticimage/i1.jpg"},
+          {"id":"02","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i2.jpg"},
+		  {"id":"03","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i3.jpg"},
+		  {"id":"04","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i3.jpg"},
+		  {"id":"05","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i3.jpg"},
+		  {"id":"06","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i3.jpg"},
+		  {"id":"07","text":"机票","img":"https://liangdada2020.github.io/vueTravel/staticimage/i3.jpg"}
+		],
+		"recommedData":[
+		   {"id":"01","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"02","img":"https://liangdada2020.github.io/vueTravel/staticimage/2.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"03","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"04","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"05","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"06","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"}
+		],
+		"weekendData":[
+		   {"id":"01","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"02","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"03","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"04","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"05","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"},
+			{"id":"06","img":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg","title":"大世界1","detial":"大大阿达哒哒哒世界"}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"ret":true,
+	"data":{
+		"mainImg":"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg",
+		"groupImgs":[
+			"https://liangdada2020.github.io/vueTravel/staticimage/2.jpg", 
+			"https://liangdada2020.github.io/vueTravel/staticimage/1.jpg"
+		],
+		"title":"大世界",
+		"ticketData":[
+			{
+				"id":"01",
+				"title":"成人",
+				"children":[
+					{
+						"id":"011",
+						"title":"两园区联票"
+					},
+					{
+						"id":"012",
+						"title":"三园区联票"
+					}
+				]
+			},
+			{
+				"id":"02",
+				"title":"儿童"
+			},
+			{
+				"id":"03",
+				"title":"老人"
+			}
+		]
+	}
+}
